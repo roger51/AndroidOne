@@ -668,9 +668,9 @@
                 qualifiers="" >
                 <color name="lightgoldenrodyellow" >#FAFAD2
                 </color>
-                <color name="possible_result_points" >#c0ffff00
-                </color>
                 <color name="brown" >#A52A2A
+                </color>
+                <color name="possible_result_points" >#c0ffff00
                 </color>
                 <color name="lightgray" >#D3D3D3
                 </color>
@@ -682,9 +682,9 @@
                 </color>
                 <color name="rosybrown" >#BC8F8F
                 </color>
-                <color name="mediumseagreen" >#3CB371
-                </color>
                 <color name="orange" >#FFA500
+                </color>
+                <color name="mediumseagreen" >#3CB371
                 </color>
                 <color name="mediumpurple" >#9370DB
                 </color>
@@ -718,9 +718,9 @@
                 </color>
                 <color name="darkgreen" >#006400
                 </color>
-                <color name="dimgrey" >#696969
-                </color>
                 <color name="darkgoldenrod" >#B8860B
+                </color>
+                <color name="dimgrey" >#696969
                 </color>
                 <color name="maroon" >#800000
                 </color>
@@ -728,9 +728,9 @@
                 </color>
                 <color name="darkseagreen" >#8FBC8F
                 </color>
-                <color name="teal" >#008080
-                </color>
                 <color name="indigo" >#4B0082
+                </color>
+                <color name="teal" >#008080
                 </color>
                 <color name="plum" >#DDA0DD
                 </color>
@@ -744,9 +744,9 @@
                 </color>
                 <color name="steelblue" >#4682B4
                 </color>
-                <color name="springgreen" >#00FF7F
-                </color>
                 <color name="slategray" >#708090
+                </color>
+                <color name="springgreen" >#00FF7F
                 </color>
                 <color name="lightcyan" >#E0FFFF
                 </color>
@@ -756,13 +756,13 @@
                 </color>
                 <color name="cornflowerblue" >#6495ED
                 </color>
-                <color name="darkslategray" >#2F4F4F
-                </color>
                 <color name="darkkhaki" >#BDB76B
                 </color>
-                <color name="gainsboro" >#DCDCDC
+                <color name="darkslategray" >#2F4F4F
                 </color>
                 <color name="lightblue" >#ADD8E6
+                </color>
+                <color name="gainsboro" >#DCDCDC
                 </color>
                 <color name="grey" >#808080
                 </color>
@@ -860,15 +860,15 @@
                 </color>
                 <color name="lightpink" >#FFB6C1
                 </color>
-                <color name="mediumblue" >#0000CD
-                </color>
                 <color name="pink" >#FFC0CB
+                </color>
+                <color name="mediumblue" >#0000CD
                 </color>
                 <color name="indianred" >#CD5C5C
                 </color>
-                <color name="purple" >#800080
-                </color>
                 <color name="darkgray" >#A9A9A9
+                </color>
+                <color name="purple" >#800080
                 </color>
                 <color name="dodgerblue" >#1E90FF
                 </color>
@@ -882,11 +882,11 @@
                 </color>
                 <color name="navajowhite" >#FFDEAD
                 </color>
-                <color name="blanchedalmond" >#FFEBCD
+                <color name="lightskyblue" >#87CEFA
                 </color>
                 <color name="darkorange" >#FF8C00
                 </color>
-                <color name="lightskyblue" >#87CEFA
+                <color name="blanchedalmond" >#FFEBCD
                 </color>
                 <color name="oldlace" >#FDF5E6
                 </color>
@@ -924,13 +924,13 @@
                 </color>
                 <color name="forestgreen" >#228B22
                 </color>
-                <color name="wheat" >#F5DEB3
-                </color>
-                <color name="crimson" >#DC143C
+                <color name="skyblue" >#87CEEB
                 </color>
                 <color name="palevioletred" >#DB7093
                 </color>
-                <color name="skyblue" >#87CEEB
+                <color name="crimson" >#DC143C
+                </color>
+                <color name="wheat" >#F5DEB3
                 </color>
                 <color name="aquamarine" >#7FFFD4
                 </color>
@@ -948,13 +948,13 @@
                 </color>
                 <color name="lightseagreen" >#20B2AA
                 </color>
-                <color name="lightslategray" >#778899
-                </color>
                 <color name="sandybrown" >#F4A460
                 </color>
-                <color name="goldenrod" >#DAA520
+                <color name="lightslategray" >#778899
                 </color>
                 <color name="firebrick" >#B22222
+                </color>
+                <color name="goldenrod" >#DAA520
                 </color>
                 <color name="white" >#FFFFFF
                 </color>
@@ -1025,16 +1025,16 @@ false
                     name="quit"
                     type="id"/>
                 <item
-                    name="decode"
-                    type="id"/>
-                <item
                     name="encode_succeeded"
                     type="id"/>
                 <item
-                    name="decode_failed"
+                    name="decode"
                     type="id"/>
                 <item
                     name="encode_failed"
+                    type="id"/>
+                <item
+                    name="decode_failed"
                     type="id"/>
             </file>
             <file
@@ -1239,6 +1239,21 @@ true
                 path="D:\workspace\isWeixin1\app\src\main\res\drawable-hdpi\btn_style_alert_dialog_background.png"
                 qualifiers="hdpi"
                 type="drawable" />
+            <file
+                name="media_main"
+                path="D:\workspace\isWeixin1\app\src\main\res\layout\media_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_videoview"
+                path="D:\workspace\isWeixin1\app\src\main\res\layout\activity_videoview.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_controller"
+                path="D:\workspace\isWeixin1\app\src\main\res\layout\activity_controller.xml"
+                qualifiers=""
+                type="layout" />
         </source>
         <source path="D:\workspace\isWeixin1\app\build\res\rs\debug" />
         <source path="D:\workspace\isWeixin1\app\build\res\generated\debug" />

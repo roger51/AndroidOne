@@ -25,6 +25,11 @@
 
         <activity android:name="com.example.photo.PhotoActivity" android:theme="@style/MyDialogStyleBottom"/>
         <activity android:name="com.example.photo.SelectPicPopupWindow" android:theme="@style/MyDialogStyleBottom"/>
+
+        <activity android:name="com.example.media.MediaActivity"/>
+        <activity android:name="com.example.media.VideoViewActivity"/>
+        <activity android:name="com.example.media.ControllerActivity"/>
+
     </application>
 
 
