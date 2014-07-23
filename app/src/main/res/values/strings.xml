@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">仿微信</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="browse">浏览</string>
+    <string name="begin_trip">开始旅程</string>
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松开后刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新...</string>
+    <string name="pull_to_refresh_tap_label">Tap to refresh...</string>
+    <string name="pull_to_refresh_footer_label">松开加载更多...</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">加载中...</string>
+    <string name="refresh_down_text">下拉刷新</string>
+    <string name="refresh_release_text">松开后刷新</string>
+    <string name="menu_settings">Settings</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="title_activity_main">PhotoActivity</string>    
+</resources>
