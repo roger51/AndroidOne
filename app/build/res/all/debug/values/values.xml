@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/values/color.xml -->
+    <!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/values/color.xml -->
     <eat-comment />
 
     <color name="aliceblue">#F0F8FF</color>
@@ -154,7 +154,7 @@
     <color name="white">#FFFFFF</color>
     <color name="whitesmoke">#F5F5F5</color>
     <color name="yellow">#FFFF00</color>
-    <!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/values/dimens.xml -->
     <eat-comment />
 
     <dimen name="activity_horizontal_margin">16dp</dimen>
@@ -162,7 +162,7 @@
     <dimen name="padding_large">16dp</dimen>
     <dimen name="padding_medium">8dp</dimen>
     <dimen name="padding_small">8dp</dimen>
-    <!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/values/ids.xml -->
+    <!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/values/ids.xml -->
     <eat-comment />
 
     <item name="about_version_code" type="id">false</item>
@@ -181,7 +181,7 @@
     <item name="search_book_contents_succeeded" type="id"/>
     <item name="split" type="id">false</item>
     <item name="webview" type="id"/>
-    <!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/values/strings.xml -->
     <eat-comment />
 
     <string name="action_settings">Settings</string>
@@ -201,7 +201,7 @@
     <string name="refresh_release_text">松开后刷新</string>
     <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
     <string name="title_activity_main">PhotoActivity</string>
-    <!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/values/styles.xml -->
     <eat-comment />
 
     <style name="AnimBottom" parent="@android:style/Animation">

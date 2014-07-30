@@ -5,4 +5,4 @@
     android:layout_height="wrap_content"
     android:src="@drawable/ic_launcher" >
 
-</com.dodowaterfall.widget.FlowView><!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/layout/waterfallitem.xml -->
+</com.dodowaterfall.widget.FlowView><!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/layout/waterfallitem.xml -->

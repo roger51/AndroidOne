@@ -7,4 +7,4 @@
         android:duration="200"
         android:fromYDelta="0"
         android:toYDelta="50%p" />
-</set><!-- From: file:/D:/workspace/isWeixin1/app/src/main/res/anim/push_bottom_out.xml -->
+</set><!-- From: file:/D:/workspace/AndroidOne/app/src/main/res/anim/push_bottom_out.xml -->

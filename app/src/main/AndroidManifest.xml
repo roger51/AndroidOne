@@ -51,6 +51,10 @@
         <activity android:name="com.example.media.VideoViewActivity"/>
         <activity android:name="com.example.media.ControllerActivity"/>
 
+        <activity android:name="com.xmpp.client.FormLogin" android:windowSoftInputMode="adjustUnspecified|stateHidden"/>
+        <activity android:name="com.xmpp.client.FormClient" android:screenOrientation="portrait" android:windowSoftInputMode="adjustUnspecified|stateHidden"/>
+        <activity android:name="com.xmpp.client.FormFiles" android:screenOrientation="portrait"/>
+
     </application>
 
 
